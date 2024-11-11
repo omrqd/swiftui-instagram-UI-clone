@@ -17,10 +17,10 @@ A simple Instagram clone built with native SwiftUI without using any third-party
 
 ## Screenshots
 
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
-![Screenshot 3](screenshots/3.png)
-![Screenshot 4](screenshots/4.png)
+<img src="screenshots/1.png" width="200">
+<img src="screenshots/2.png" width="200">
+<img src="screenshots/3.png" width="200">
+<img src="screenshots/4.png" width="200">
 
 ## Installation
 
